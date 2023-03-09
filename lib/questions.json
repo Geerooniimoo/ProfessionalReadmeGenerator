@@ -1,0 +1,58 @@
+[
+    {
+        "type":"input",
+        "name": "title",
+        "message": "What is the project's name?"
+    },
+    {
+        "type":"input",
+        "name": "description",
+        "message": "What is the project's description?"
+    },
+    {
+        "type":"input",
+        "name": "imgPath",
+        "message": "If an image will be used, please provide image's path."
+    },
+    {
+        "type":"input",
+        "name": "installation",
+        "message": "What installations are required?"
+    },
+    {
+        "type":"input",
+        "name": "usage",
+        "message": "How should the project be used?"
+    },
+    {
+        "type":"input",
+        "name": "contributors",
+        "message": "Who contributed?"
+    },
+    {
+        "type":"list",
+        "name": "license",
+        "message": "Does the project have any licenses?",
+        "choices": ["MIT","BSD","APACHE","None"]
+    },
+    {
+        "type":"input",
+        "name": "features",
+        "message": "What features does the project have?"
+    },
+    {
+        "type":"input",
+        "name": "tests",
+        "message": "What tests are needed?"
+    },
+    {
+        "type":"input",
+        "name": "email",
+        "message": "What is your email?"
+    },
+    {
+        "type":"input",
+        "name": "github",
+        "message": "What is your Github's username?"
+    }
+]

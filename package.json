@@ -1,0 +1,27 @@
+{
+  "name": "ReadMe-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geerooniimoo/ReadMe-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geerooniimoo/ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/Geerooniimoo/ReadMe-Generator#readme",
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.4"
+  }
+}

@@ -32,6 +32,6 @@ Just by answering a few questions about any project, this application can genera
 After the application runs, the terminal should display 'Professinal README.md created!!!' and a file should appear in the dist folder.  If this fails, I could be reached at the email below.
 
 ## Contact
-### If there are any questions of concerns, I can be reached at:
-[Email](mailto:admin@AnalyticsAndWebDevelopment.com)
-[Github](https://github.com/geerooniimoo)
+If there are any questions of concerns, I can be reached at:
+[github: geerooniimoo](https://github.com/geerooniimoo)
+[email: Geronimo.Perez4@Gmail.com](mailto:admin@AnalyticsAndWebDevelopment.com)

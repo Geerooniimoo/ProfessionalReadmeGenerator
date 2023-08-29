@@ -1,9 +1,8 @@
+# Professional Markdown ReadMe Generator
 
-# Professional ReadMe Generator
-![MIT](https://img.shields.io/badge/Lincense-MIT-blue)
 
 ## Description
-It helps create a markdown readme file for any project
+Professional Markdown ReadMe Generator
 
 
 
@@ -17,24 +16,23 @@ It helps create a markdown readme file for any project
 - [Contact](#contact)
 
 ## Installation
-figlet and inquier@8.2.4
+Professional Markdown ReadMe Generator
 
 ## Usage
-Run the application with the node command on the terminal
+Professional Markdown ReadMe Generator
 
 ## Credits
-Geronimo
+Professional Markdown ReadMe Generator
 
-## License
-MIT
+
 
 ## Features
-images, links and badges
+Professional Markdown ReadMe Generator
 
 ## Tests
-confirm links work
+Professional Markdown ReadMe Generator
 
 ## Contact
 If there are any questions of concerns, I can be reached at:
-[github: Geerooniimoo](https://github.com/Geerooniimoo)
-[email: Geronimo.Perez4@Gmail.com](mailto:Geronimo.Perez4@Gmail.com)
+[github: Professional Markdown ReadMe Generator](https://github.com/Professional Markdown ReadMe Generator)
+[email: Professional Markdown ReadMe Generator](mailto:Professional Markdown ReadMe Generator)

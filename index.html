@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./assets/css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional ReadMe Generator</title>
+</head>
+<body>
+    <h2 id="title">Professional Markdown ReadMe Generator</h2>
+    <main id="main">
+        <label>What is the project's name?</label>
+        <input>
+        <label>What is the project's description?</label>
+        <input>
+        <label>If an image will be used, please provide image's path.</label>
+        <input>
+        <label>What installations are required?</label>
+        <input>
+        <label>How should the project be used?</label>
+        <input>
+        <label>Who contributed?</label>
+        <input>
+        <label>Does the project have any licenses?</label>
+        <label for="MIT"><input type="radio" name="license" id="None" value="None" checked>None</label>
+        <label for="MIT"><input type="radio" name="license" id="MIT" value="MIT">MIT</label>
+        <label for="MIT"><input type="radio" name="license" id="BSD" value="BSD">BSD</label>
+        <label for="MIT"><input type="radio" name="license" id="APACHE" value="APACHE">Apache</label>
+        
+        <label>What features does the project have?</label>
+        <input>
+        <label>What tests are needed?</label>
+        <input>
+        <label>What is your email?</label>
+        <input>
+        <label>What is your Github's username?</label>
+        <input>
+    </main>
+    <button id="btn" onclick="getCode()">Get MarkDown Code</button>
+
+    <script src="assets/js/script.js"></script>
+</body>
+</html>

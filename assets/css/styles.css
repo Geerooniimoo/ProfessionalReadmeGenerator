@@ -8,11 +8,10 @@ body{
     flex-direction: column;
 }
 
-h2 {
+h1 {
     text-align: center;
     font-family: serif;
     font-weight: normal;
-    font-size: 3.4vw;
     background: transparent;
     color: whitesmoke;
     width: fit-content;
@@ -55,7 +54,6 @@ button {
     background: seagreen;
     color: white;
     font-weight: 900;
-    font-size: 1.8vw;
     font-family: serif;
     border: 1px solid black;
     box-shadow: 2px 3px 1px gray, 2px 4px 1px black;

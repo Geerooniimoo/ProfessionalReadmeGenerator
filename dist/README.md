@@ -1,10 +1,10 @@
-# Professional Markdown ReadMe Generator
+# Professional ReadMe Generator
 
 
 ## Description
-Professional Markdown ReadMe Generator
+This is a frontend application that generates markdown code
 
-
+![app_image](../assets/images/mockup.png)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,23 +16,23 @@ Professional Markdown ReadMe Generator
 - [Contact](#contact)
 
 ## Installation
-Professional Markdown ReadMe Generator
+None
 
 ## Usage
-Professional Markdown ReadMe Generator
+Answer the questions, get the code and paste in a markdown file
 
 ## Credits
-Professional Markdown ReadMe Generator
+Geerooniimoo
 
 
 
 ## Features
-Professional Markdown ReadMe Generator
+It's easy to use, and no download is required.
 
 ## Tests
-Professional Markdown ReadMe Generator
+Confirm links work
 
 ## Contact
 If there are any questions of concerns, I can be reached at:
-[github: Professional Markdown ReadMe Generator](https://github.com/Professional Markdown ReadMe Generator)
-[email: Professional Markdown ReadMe Generator](mailto:Professional Markdown ReadMe Generator)
+[github: Geerooniimoo](https://github.com/Geerooniimoo)
+[email: Geronimo.Perez4@Gmail.com](mailto:Geronimo.Perez4@Gmail.com)

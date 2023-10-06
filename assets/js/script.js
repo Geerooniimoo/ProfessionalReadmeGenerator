@@ -17,7 +17,8 @@ let license = document.querySelector('input[checked]').value;
 main.innerHTML = `
 <textarea>
 # ${inputs[0].value}
-${license=='None' ? '' : `![${license}](https://img.shields.io/badge/Lincense-${license}-blue)`}
+${inputs[9].value ? `-Website: [website](${inputs[8].value})` : ''}
+${license=='None' ? '' : `![${license}](https://img.shields.io/badge/License-${license}-blue)`}
 
 ## Description
 ${inputs[1].value }

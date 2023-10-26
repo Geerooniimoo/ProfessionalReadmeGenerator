@@ -12,13 +12,15 @@ title.innerText = 'Copy code into a markdown file\n and save in your repository.
 title.style.color = '#c9c94e';
 
 let inputs = document.querySelectorAll('input:not([type="radio"])');
-let license = document.querySelector('input[checked]').value;
+let license = document.querySelector('input[name="license"]:checked').value;
 
 main.innerHTML = `
 <textarea>
 # ${inputs[0].value}
-${inputs[9].value ? `-Website: [website](${inputs[8].value})` : ''}
 ${license=='None' ? '' : `![${license}](https://img.shields.io/badge/License-${license}-blue)`}
+
+${inputs[9].value ? `## Website: 
+[website](${inputs[8].value})` : ''}
 
 ## Description
 ${inputs[1].value }
@@ -26,6 +28,7 @@ ${inputs[1].value }
 ${inputs[2].value ? `![app_image](${inputs[2].value})` : ''}
 
 ## Table of Contents
+${license != 'None' ? '- [Website](#website)' : ''}
 ${inputs[3].value ? '- [Installation](#installation)' : ''}
 ${inputs[4].value ? '- [Usage](#usage)' : ''}
 ${inputs[5].value ? '- [Credits](#credits)' : ''}

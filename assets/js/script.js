@@ -32,7 +32,7 @@ ${license != 'None' ? '- [Website](#website)' : ''}
 ${inputs[3].value ? '- [Installation](#installation)' : ''}
 ${inputs[4].value ? '- [Usage](#usage)' : ''}
 ${inputs[5].value ? '- [Credits](#credits)' : ''}
-${license ? '- [License](#license)' : ''}
+${license != 'None' ? '- [License](#license)' : ''}
 ${inputs[6].value ? '- [Features](#features)' : ''}
 ${inputs[7].value ? '- [Tests](#tests)' : ''}
 ${inputs[8].value ? '- [Contact](#contact)' : ''}

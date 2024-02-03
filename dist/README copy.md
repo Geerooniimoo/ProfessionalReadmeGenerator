@@ -1,43 +1,36 @@
-# test
-![APACHE](https://img.shields.io/badge/License-APACHE-blue)
+# Professional MarkDown ReadMe Generator
+![MIT](https://img.shields.io/badge/License-MIT-blue)
 
-## Website: 
-[website](test)
+
 
 ## Description
-test
+Helps with the readMe creation
 
-![app_image](test)
+
 
 ## Table of Contents
-- [Website](#website)
-- [Installation](#installation)
+
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Features](#features)
-- [Tests](#tests)
-- [Contact](#contact)
 
-## Installation
-test
+
+
+
+
 
 ## Usage
-test
+Fill in the blanks that apply
 
 ## Credits
-test
+Gmo
 
 ## License
-APACHE
+MIT
 
-## Features
-test
 
-## Tests
-test
 
-## Contact
-If there are any questions of concerns, I can be reached at:
-##### [github: test](https://github.com/test)
-##### [email: test](mailto:test)
+
+
+
+##### [email: ](mailto:)

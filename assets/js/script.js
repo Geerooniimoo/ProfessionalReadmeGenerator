@@ -60,7 +60,7 @@ ${inputs[7].value ? `## Tests
 ${inputs[7].value}` : ''}
 
 ${inputs[8].value ? `## Contact
-If there are any questions of concerns, I can be reached at:
+If there are any questions or concerns, I can be reached at:
 ##### [github: ${inputs[9].value}](https://github.com/${inputs[9].value})
 ##### [email: ${inputs[8].value}](mailto:${inputs[8].value})` : ''}
 </textarea>    
